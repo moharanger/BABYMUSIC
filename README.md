@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamBABY/BABYMUSICBot/stargazers"><img src="https://img.shields.io/github/stars/BABY-MUSIC/BABYMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/BABY-MUSIC/BABYMUSIC/stargazers"><img src="https://img.shields.io/github/stars/BABY-MUSIC/BABYMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/BABY-MUSIC/BABYMUSIC/network/members"> <img src="https://img.shields.io/github/forks/BABY-MUSIC/BABYMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/BABY-MUSIC/BABYMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
